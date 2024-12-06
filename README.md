@@ -15,7 +15,8 @@ This tutorial is designed for students and individuals who have a basic understa
 4. [Cloning a Repository](#cloning-a-repository)
 5. [Pulling Updates from a Remote Repository](#pulling-updates-from-a-remote-repository)
 6. [Conclusion](#conclusion)
-7. c
+7. [Further Resources](#further-resources)
+
 ## Introduction to Git
 Git is a distributed version control system that allows developers to:
 

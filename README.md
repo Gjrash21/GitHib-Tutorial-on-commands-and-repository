@@ -29,7 +29,7 @@ In this tutorial, we'll cover the most commonly used Git commands to help you ge
 
 ## Getting Started
 Step 1: Install Git
-Download Git from git-scm.com.
+Download Git from git-scm.com
 Follow the installation instructions for your operating system.
 Step 2: Configure Git
 Set up your username and email:

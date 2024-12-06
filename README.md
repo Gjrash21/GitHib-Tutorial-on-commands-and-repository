@@ -4,18 +4,19 @@ This tutorial will guide you through the use of basic Git commands and how to ma
 Target Audience
 This tutorial is designed for students and individuals who have a basic understanding of Git/GitHub but want to develop foundational skills in version control. It is suitable for those with little to moderate experience, providing a hands-on approach to mastering Git.
 
-Table of Contents
-Introduction to Git
-Getting Started
-Basic Git Commands
-Initializing a Repository
-Adding and Committing Changes
-Pushing Changes to GitHub
-Cloning a Repository
-Pulling Updates from a Remote Repository
-Conclusion
-Further Resources
-Introduction to Git
+## **Table of Contents**
+
+1. [Introduction to Git](#introduction-to-git)
+2. [Getting Started](#getting-started)
+3. [Basic Git Commands](#basic-git-commands)
+   - [Initializing a Repository](#initializing-a-repository)
+   - [Adding and Committing Changes](#adding-and-committing-changes)
+   - [Pushing Changes to GitHub](#pushing-changes-to-github)
+4. [Cloning a Repository](#cloning-a-repository)
+5. [Pulling Updates from a Remote Repository](#pulling-updates-from-a-remote-repository)
+6. [Conclusion](#conclusion)
+7. [Further Resources](#further-resources)
+## Introduction to Git
 Git is a distributed version control system that allows developers to:
 
 Track changes to their code.
@@ -25,7 +26,7 @@ In this tutorial, we'll cover the most commonly used Git commands to help you ge
 
 Back to Top | Next: Getting Started
 
-Getting Started
+## Getting Started
 Step 1: Install Git
 Download Git from git-scm.com.
 Follow the installation instructions for your operating system.
@@ -38,8 +39,8 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
 Back to Top | Previous: Introduction to Git | Next: Basic Git Commands
 
-Basic Git Commands
-Initializing a Repository
+## Basic Git Commands
+### Initializing a Repository
 To start a new Git repository:
 
 bash
@@ -49,7 +50,8 @@ This creates a hidden .git folder that tracks changes.
 
 Back to Top | Previous: Getting Started | Next: Adding and Committing Changes
 
-Adding and Committing Changes
+### Adding and Committing Changes
+
 Add files to the staging area:
 
 bash
@@ -67,7 +69,7 @@ Copy code
 git commit -m "Your commit message"
 Back to Top | Previous: Initializing a Repository | Next: Pushing Changes to GitHub
 
-Pushing Changes to GitHub
+### Pushing Changes to GitHub
 Add the remote repository:
 bash
 Copy code
@@ -78,7 +80,7 @@ Copy code
 git push origin main
 Back to Top | Previous: Adding and Committing Changes | Next: Cloning a Repository
 
-Cloning a Repository
+## Cloning a Repository
 To clone an existing repository from GitHub:
 
 bash
@@ -88,7 +90,7 @@ This command downloads the repository to your local machine.
 
 Back to Top | Previous: Pushing Changes to GitHub | Next: Pulling Updates from a Remote Repository
 
-Pulling Updates from a Remote Repository
+## Pulling Updates from a Remote Repository
 If others have made changes to the repository, pull the updates to stay in sync:
 
 bash
@@ -96,7 +98,7 @@ Copy code
 git pull origin main
 Back to Top | Previous: Cloning a Repository | Next: Conclusion
 
-Conclusion
+## Conclusion
 By following this tutorial, you’ve learned:
 
 The basics of initializing and managing a Git repository.
@@ -105,7 +107,7 @@ Practice these commands frequently to solidify your skills!
 
 Back to Top | Previous: Pulling Updates from a Remote Repository | Next: Further Resources
 
-Further Resources
+## Further Resources
 Here are some additional materials to deepen your understanding:
 
 Git Documentation

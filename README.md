@@ -38,7 +38,7 @@ bash
 Copy code
 git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
-Back to Top | Previous: [Introduction to Git](#introduction-to-git) | Next: [Basic Git Commands](#basic-git-commands)
+[Back to Top](#Table-of-Contents) | Previous: [Introduction to Git](#introduction-to-git) | Next: [Basic Git Commands](#basic-git-commands)
 
 ## Basic Git Commands
 ### Initializing a Repository
@@ -49,7 +49,7 @@ Copy code
 git init
 This creates a hidden .git folder that tracks changes.
 
-Back to Top | Previous: [Getting Started](#getting-started) | Next: [Adding and Committing Changes](#adding-and-committing-changes)
+[Back to Top](#Table-of-Contents) | Previous: [Getting Started](#getting-started) | Next: [Adding and Committing Changes](#adding-and-committing-changes)
 
 ### Adding and Committing Changes
 
@@ -68,7 +68,7 @@ Commit changes with a message:
 bash
 Copy code
 git commit -m "Your commit message"
-Back to Top | Previous: [Initializing a Repository](#initializing-a-repository) | Next: [Pushing Changes to GitHub](#pushing-changes-to-github)
+[Back to Top](#Table-of-Contents) | Previous: [Initializing a Repository](#initializing-a-repository) | Next: [Pushing Changes to GitHub](#pushing-changes-to-github)
 
 ### Pushing Changes to GitHub
 Add the remote repository:
@@ -79,7 +79,7 @@ Push changes:
 bash
 Copy code
 git push origin main
-Back to Top | Previous: [Adding and Committing Changes](#adding-and-committing-changes) | Next: [Cloning a Repository](#cloning-a-repository)
+[Back to Top](#Table-of-Contents) | Previous: [Adding and Committing Changes](#adding-and-committing-changes) | Next: [Cloning a Repository](#cloning-a-repository)
 
 ## Cloning a Repository
 To clone an existing repository from GitHub:
@@ -89,7 +89,7 @@ Copy code
 git clone https://github.com/username/repository-name.git
 This command downloads the repository to your local machine.
 
-Back to Top | Previous: [Pushing Changes to GitHub](#pushing-changes-to-github) | Next: [Pulling Updates from a Remote Repository](#pulling-updates-from-a-remote-repository)
+[Back to Top](#Table-of-Contents) | Previous: [Pushing Changes to GitHub](#pushing-changes-to-github) | Next: [Pulling Updates from a Remote Repository](#pulling-updates-from-a-remote-repository)
 
 ## Pulling Updates from a Remote Repository
 If others have made changes to the repository, pull the updates to stay in sync:
@@ -97,7 +97,7 @@ If others have made changes to the repository, pull the updates to stay in sync:
 bash
 Copy code
 git pull origin main
-Back to Top | Previous: [Cloning a Repository](#cloning-a-repository) | Next: [Conclusion](#conclusion)
+[Back to Top](#Table-of-Contents) | Previous: [Cloning a Repository](#cloning-a-repository) | Next: [Conclusion](#conclusion)
 
 ## Conclusion
 By following this tutorial, you’ve learned:
@@ -106,7 +106,7 @@ The basics of initializing and managing a Git repository.
 How to track changes and collaborate using GitHub.
 Practice these commands frequently to solidify your skills!
 
-Back to Top | Previous: [Pulling Updates from a Remote Repository](#pulling-updates-from-a-remote-repository) | Next:[Further Resources](#further-resources)
+[Back to Top](#Table-of-Contents) | Previous: [Pulling Updates from a Remote Repository](#pulling-updates-from-a-remote-repository) | Next:[Further Resources](#further-resources)
 
 ## Further Resources
 Here are some additional materials to deepen your understanding:

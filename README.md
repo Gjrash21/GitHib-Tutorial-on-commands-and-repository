@@ -6,7 +6,7 @@ Table of Contents
 
 [Introduction to Git]
 
-[Getting Started](#Getting-started)
+[Getting Started](getting-started.md)
 
 [Basic Git Commands](#basic-git-commands)
 

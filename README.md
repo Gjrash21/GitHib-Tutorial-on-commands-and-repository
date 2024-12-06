@@ -38,6 +38,7 @@ bash
 Copy code
 git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
+
 [Back to Top](#Table-of-Contents) | Previous: [Introduction to Git](#introduction-to-git) | Next: [Basic Git Commands](#basic-git-commands)
 
 ## Basic Git Commands
@@ -68,6 +69,7 @@ Commit changes with a message:
 bash
 Copy code
 git commit -m "Your commit message"
+
 [Back to Top](#Table-of-Contents) | Previous: [Initializing a Repository](#initializing-a-repository) | Next: [Pushing Changes to GitHub](#pushing-changes-to-github)
 
 ### Pushing Changes to GitHub
@@ -79,6 +81,7 @@ Push changes:
 bash
 Copy code
 git push origin main
+
 [Back to Top](#Table-of-Contents) | Previous: [Adding and Committing Changes](#adding-and-committing-changes) | Next: [Cloning a Repository](#cloning-a-repository)
 
 ## Cloning a Repository
@@ -97,6 +100,7 @@ If others have made changes to the repository, pull the updates to stay in sync:
 bash
 Copy code
 git pull origin main
+
 [Back to Top](#Table-of-Contents) | Previous: [Cloning a Repository](#cloning-a-repository) | Next: [Conclusion](#conclusion)
 
 ## Conclusion
@@ -114,7 +118,7 @@ Here are some additional materials to deepen your understanding:
 Git Documentation
 GitHub Guides
 Pro Git Book
-Back to Top
+
 
 
 

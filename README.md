@@ -8,7 +8,7 @@ Table of Contents
 
 [Getting Started](#Getting-started)
 
-[Basic Git Commands]
+[Basic Git Commands](#basic-git-commands)
 
   [Initializing a Repository]
 

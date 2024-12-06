@@ -24,7 +24,7 @@ Collaborate with others seamlessly.
 Manage multiple versions of their projects effectively.
 In this tutorial, we'll cover the most commonly used Git commands to help you get started.
 
-Back to Top | Next: Getting Started
+Back to Top | Next: [Getting Started](#getting-started)
 
 ## Getting Started
 Step 1: Install Git

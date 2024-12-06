@@ -1,0 +1,53 @@
+
+Initializing a Repository
+To start a new Git repository:
+
+bash
+Copy code
+git init
+This creates a hidden .git folder that tracks changes.
+
+Adding and Committing Changes
+Add files to the staging area:
+
+bash
+Copy code
+git add <file>  
+To add all files:
+
+bash
+Copy code
+git add .
+Commit changes with a message:
+
+bash
+Copy code
+git commit -m "Your commit message"
+Pushing Changes to GitHub
+Add the remote repository:
+bash
+Copy code
+git remote add origin https://github.com/yourusername/repository-name.git
+Push changes:
+bash
+Copy code
+git push origin main
+Back to Top | Next: Cloning a Repository
+
+Cloning a Repository
+To clone an existing repository from GitHub:
+
+bash
+Copy code
+git clone https://github.com/username/repository-name.git
+This command downloads the repository to your local machine.
+
+Back to Top | Next: Pulling Updates from a Remote Repository
+
+Pulling Updates from a Remote Repository
+If others have made changes to the repository, pull the updates to stay in sync:
+
+bash
+Copy code
+git pull origin main
+Back to Top | Next: Conclusion

@@ -4,22 +4,22 @@ Target Audience: This tutorial is designed for students and individuals who have
 
 Table of Contents
 
-[Introduction to Git](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#introduction-to-git)
+[Introduction to Git]
 
-[Getting Started](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#getting-started)
+[Getting Started]
 
-[Basic Git Commands](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#basic-git-commands)
+[Basic Git Commands]
 
-  [Initializing a Repository](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#initializing-a-repository)
+  [Initializing a Repository]
 
-  [Adding and Committing Changes](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#adding-and-committing-changes)
+  [Adding and Committing Changes]
 
-  [Pushing Changes to GitHub](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#pushing-changes-to-github)
+  [Pushing Changes to GitHub]
 
-[Cloning a Repository](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#cloning-a-repository)
+[Cloning a Repository]
 
-[Pulling Updates from a Remote Repositor](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#pulling-updates-from-a-remote-repository)y
+[Pulling Updates from a Remote Repositor]
 
-[Conclusion](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#conclusion)
+[Conclusion]
 
-[Further Resources](https://chatgpt.com/c/67534bfa-39a8-8000-bc56-60a7d477e15d#further-resources)
+[Further Resources]
